@@ -1,4 +1,4 @@
-:dromedary_camel: 비전공 낙타의 코딩 생존기!
+:dromedary_camel: 비전공자 낙타의 코딩 생존기!
 
 :punch: Python, Java, 그리고 기본적인 CS 지식을 공부중입니다!
 
