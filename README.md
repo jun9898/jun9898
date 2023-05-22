@@ -5,6 +5,9 @@
 :shipit: 백준 골드를 목표로 알고리즘 공부중!
 
 
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jun9898&show_icons=true&theme=radical)
+
+
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=jun9898&theme=react&line_height=40&hide=css"/> </a>
 
 <!--
