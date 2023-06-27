@@ -2,7 +2,7 @@
 
 :punch: Python, Java, 그리고 기본적인 CS 지식을 공부중입니다!
 
-:shipit: 백준 골드를 목표로 알고리즘 공부중!
+:shipit: 백준 골드1을 목표로 알고리즘 공부중!
 
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jun9898&show_icons=true&theme=radical)
