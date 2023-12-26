@@ -15,6 +15,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jun9898)](https://solved.ac/jun9898/)
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jun9898&layout=compact&theme=dark)
 <!--
 **jun9898/jun9898** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
