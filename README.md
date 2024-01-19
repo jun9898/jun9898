@@ -9,6 +9,8 @@
 
 :shipit: 백준 골드1을 목표로 알고리즘 공부중!
 
+</div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jun9898&show_icons=true&theme=radical)
 
@@ -31,4 +33,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
