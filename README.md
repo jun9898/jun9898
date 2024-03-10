@@ -3,7 +3,7 @@
   ![header](https://capsule-render.vercel.app/api?type=rounded&color=_hexcode&text=Byeonjun%20Jeon's%20GitHub%20👋&fontColor=ffffff&animation=blinking&fontSize=40&fontAlignY=50&fontAlign=50&height180)
 
 <h1>
-:dromedary_camel: 비전공자 낙타의 코딩 생존기!
+:dromedary_camel: 낙타의 코딩 생존기!
 </h1>
 
 :punch: Python, Java, 그리고 기본적인 CS 지식을 공부중입니다!
