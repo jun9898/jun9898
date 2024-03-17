@@ -6,7 +6,7 @@
 :dromedary_camel: 낙타의 코딩 생존기!
 </h1>
 
-:punch: Python, Java, 그리고 기본적인 CS 지식을 공부중입니다!
+:punch: Spring, React, 그리고 기본적인 CS 지식을 공부중입니다!
 
 :shipit: 백준 골드1을 목표로 알고리즘 공부중!
 
