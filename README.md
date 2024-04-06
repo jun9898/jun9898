@@ -12,7 +12,7 @@
 
 </div>
 
-![](./profile-3d-contrib/profile-gitblock.svg)
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jun9898&show_icons=true&theme=radical)
 
