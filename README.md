@@ -14,6 +14,16 @@
 
 ![](./profile-3d-contrib/profile-green-animate.svg)
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/jun9898"
+    width="600"
+    height="120"
+  />
+</a>
+  
+
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jun9898&show_icons=true&theme=radical)
 
 
