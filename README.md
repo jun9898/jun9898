@@ -16,13 +16,12 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/jun9898"
-    width="600"
-    height="120"
-  />
+<img
+  src="https://render.gitanimals.org/farms/jun9898"
+  width="600"
+  height="300"
+/>
 </a>
-  
 
 ![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jun9898&show_icons=true&theme=radical)
 
