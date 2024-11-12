@@ -8,7 +8,6 @@
 
 :punch: Spring, React, 자료구조 그리고 pintOS를 비롯한 전반적인 CS 지식을 공부중입니다!
 
-:shipit: 백준 플래티넘을 목표로 알고리즘 공부중!
 
 </div>
 
