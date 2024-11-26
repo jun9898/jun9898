@@ -6,7 +6,7 @@
 :dromedary_camel: 낙타의 코딩 생존기!
 </h1>
 
-:punch: Spring, React, 자료구조 그리고 pintOS를 비롯한 전반적인 CS 지식을 공부중입니다!
+:punch: Spring, NestJS, React, 자료구조 그리고 pintOS를 비롯한 전반적인 CS 지식을 공부중입니다!
 
 
 </div>
